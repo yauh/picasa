@@ -92,7 +92,7 @@ const authURL = picasa.getAuthURL(config)
 // Get config here API Manager > Credentials https://console.developers.google.com/home/dashboard
 const config = {
   clientId     : 'yourClientId',
-  redirectURI  : 'redirectURI'
+  redirectURI  : 'redirectURI',
   clientSecret : 'yourClientSecret'
 }
 
